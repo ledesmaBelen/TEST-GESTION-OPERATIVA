@@ -1,0 +1,53 @@
+.LOG
+MLA917080102Monitor Gamer Dell Professional P2719h Led 27   Negro 100v/240vMLA14407Monitores
+MLA917485457Monitor Dell E Series E2220h Led 21.5   Negro 100v/240vMLA14407Switches
+MLA917202917Switch Cisco Sg110d-08 Serie 110MLA1708Monitores
+MLA874472550Router Linksys Ea-series Ea6100 Negro 100v/240vMLA430901UPS
+MLA923782218Monitor Gamer Dell P2419h Led 24   Negro 100v/240vMLA14407Monitores
+MLA884735636Router Cisco Rv Series Rv345 Negro 100v/240vMLA430901Switches
+MLA870592467Router Linksys E2500 NegroMLA430901UPS
+MLA923612111Switch Cisco Sg110-24 Small Business Serie 110MLA1708Notebooks
+MLA918321811Monitor Dell E E2720h Led 27   Negro 100v/240vMLA14407Notebooks
+MLA912269991 Apc Back-ups Br900g-ar 900va Entrada Y Salida De 230v NegroMLA1720Monitores
+MLA914633882Access Point Interior Cisco 100 Series Wap150 BlancoMLA430901Notebooks
+MLA913997022Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  8gb De Ram 1tb Hdd, Intel Uhd Graphics 60 Hz 1366x768px Windows 10 ProMLA1652UPS
+MLA925187179 Apc Back-ups Pro 1200 Br1200g-ar 1200va Entrada Y Salida De 230v NegroMLA1720Notebooks
+MLA923578589Notebook Dell Latitude 3510 Gris 15.6 , Intel Core I5 10210u  8gb De Ram 1tb Hdd, Intel Hd Graphics 620 1366x768px Windows 10 ProMLA1652Routers
+MLA918820148Router Linksys Lrt214 Negro Y AzulMLA430901Switches
+MLA925474288 Apc Easy Ups Bv Bv650i-ar 650va Entrada Y Salida De 230v NegroMLA1720Routers
+MLA884735834Repetidor Linksys Re6500 NegroMLA430901Routers
+MLA863267784Monitor Gamer Dell Professional P2018h Led 20   Negro 100v/240vMLA14407Routers
+MLA919422304Access Point, Router Linksys Mr8300 Negro 100v/240vMLA430901Routers
+MLA926597938Monitor Dell E E2420h Led 24   Negro 100v/240vMLA14407Notebooks
+MLA917516307 Apc Smart-ups Srt Srt5kxli 5000va Entrada Y Salida De 230v NegroMLA1720Notebooks
+MLA917515758 Apc Easy Ups Srv6ki 6000va Entrada Y Salida De 230v NegroMLA1720UPS
+MLA917517444Switch Cisco Sg250-50p Serie 250MLA1708Routers
+MLA927112630Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  16gb De Ram 1tb Hdd 256gb Ssd, Amd Radeon Vega 8 1366x768px Windows 10 HomeMLA1652Notebooks
+MLA914898074Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  8gb De Ram 1tb Hdd 240gb Ssd, Intel Uhd Graphics 60 Hz 1366x768px Windows 10 ProMLA1652Notebooks
+MLA927113031Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  8gb De Ram 256gb Ssd, Amd Radeon Vega 8 1366x768px Windows 10 HomeMLA1652Monitores
+MLA927112732Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  16gb De Ram 256gb Ssd, Amd Radeon Vega 8 1366x768px Windows 10 HomeMLA1652Routers
+MLA898898561Repetidor, Router, Sistema Wi-fi Mesh Linksys Velop Wifi Intelligent Mesh Blanco 100v/240vMLA430901Notebooks
+MLA923578550Notebook Dell Latitude 3510 Gris 15.6 , Intel Core I5 10210u  4gb De Ram 1tb Hdd, Intel Uhd Graphics 620 1920x1080px Windows 10 ProMLA1652UPS
+MLA919620195Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  16gb De Ram 1tb Hdd, Intel Hd Graphics 60 Hz 1366x768px Windows 10 ProMLA1652Monitores
+MLA927177803 Apc Back-ups Bx550ci-ar 550va Entrada Y Salida De 230v NegroMLA1720UPS
+MLA927112638Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  8gb De Ram 1tb Hdd 256gb Ssd, Amd Radeon Vega 8 1366x768px Windows 10 HomeMLA1652Routers
+MLA927153653Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  12gb De Ram 256gb Ssd, Amd Radeon Vega 8 1366x768px Windows 10 HomeMLA1652UPS
+MLA914901828Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  32gb De Ram 1tb Hdd 240gb Ssd, Intel Uhd Graphics 60 Hz 1366x768px Windows 10 ProMLA1652Switches
+MLA914900871Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  12gb De Ram 1tb Hdd, Intel Hd Graphics 60 Hz 1366x768px Windows 10 ProMLA1652Notebooks
+MLA919421624Access Point, Router Linksys Max-stream Ea7300 Negro 100v/240vMLA430901UPS
+MLA926280125 Apc Easy Ups Bv500i-ar 500va Entrada Y Salida De 230v NegroMLA1720Switches
+MLA926001777Switch Linksys Se3005MLA1708Notebooks
+MLA927178600 Apc Back-ups Bx800ci-ar 800va Entrada Y Salida De 230v NegroMLA1720UPS
+MLA926000369Switch Linksys Se3008MLA1708UPS
+MLA925179224 Apc Easy Ups Bv1000i-ar 1000va Entrada Y Salida De 230v NegroMLA1720UPS
+MLA926291038 Apc Easy Ups Srv3000 Srv3ki-ar 3000va Entrada Y Salida De 220v/240v NegroMLA1720Switches
+MLA884736168Router Cisco Rv Series Rv340 Negro 100v/240vMLA430901Routers
+MLA914895665Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  4gb De Ram 1tb Hdd, Intel Hd Graphics 60 Hz 1366x768px Windows 10 ProMLA1652Routers
+MLA917515954 Apc Back-ups Br550g-ar 550va Entrada Y Salida De 230v NegroMLA1720Notebooks
+MLA927154124Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  12gb De Ram 1tb Hdd 256gb Ssd, Amd Radeon Vega 8 1366x768px Windows 10 HomeMLA1652Notebooks
+MLA685442693Switch Cisco 24 Puertos Gigabit Rack 10/100/1000MLA1708Routers
+MLA919297554Notebook Dell Vostro 3401 I3 16gb 1tb + 240ssd Win 10 HomeMLA1652UPS
+MLA723894918Router 16 Puertos Cisco Rv345-k9 Dual Wan Giga Vpn 16p Rv345MLA430901Notebooks
+MLA614270244Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 AñosMLA1720Notebooks
+
+00:18 28/6/2021
